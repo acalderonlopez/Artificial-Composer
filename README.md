@@ -59,7 +59,5 @@ In order to train a model with our song lyrics database we used a [google colab 
 
 <h3>Part 2: Magenta MIDI-Generator + Pre-trained piano model</h3>
 
-[Output 1](https://github.com/asfrattini/Artificial-Composer/blob/master/outputs/05.mp3)
 
-<a href="https://github.com/asfrattini/Artificial-Composer/blob/master/outputs/05.mp3">Play sound file</a>
 
