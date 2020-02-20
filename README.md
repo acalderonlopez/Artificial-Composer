@@ -59,5 +59,30 @@ In order to train a model with our song lyrics database we used a [google colab 
 
 <h3>Part 2: Magenta MIDI-Generator + Pre-trained piano model</h3>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763971025&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<h4>Training the model</h4>
 
+For this part of the project we used a [tutorial](https://www.twilio.com/blog/generate-music-python-neural-networks-magenta-tensorflow) by [Sam Agnew](https://www.twilio.com/blog/author/sagnew) which implemented Magenta and Tensorflow in order to train a model with a midi files database and gave 10 midi files as an output (which we later decided to modify on Garage Band to create new music tracks.
+
+![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Midi-Files.png)
+
+<h4>Outputs</h4>
+
+[MIDI File Output 1](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_01.mid)
+
+[MIDI File Output 2](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_02.mid)
+
+[MIDI File Output 3](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_03.mid)
+
+[MIDI File Output 4](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_04.mid)
+
+[MIDI File Output 5](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_05.mid)
+
+[MIDI File Output 6](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_06.mid)
+
+[MIDI File Output 7](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_07.mid)
+
+[MIDI File Output 8](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_08.mid)
+
+[MIDI File Output 9](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_09.mid)
+
+[MIDI File Output 10](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_10.mid)
