@@ -16,9 +16,11 @@ We also decided to make the most of this tool by choosing some of the lyrics tha
 In order to train a model with our song lyrics database we used a [google colab tutorial](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce) that allowed us to use our own database in order to change the output of the program.
 
 <h5>The database</h5>
+
 ![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Database.png)
 
 <h5>The model</h5>
+
 ![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Model.png)
 
 <h4>Outputs</h4>
