@@ -59,4 +59,4 @@ In order to train a model with our song lyrics database we used a [google colab 
 
 <h3>Part 2: Magenta MIDI-Generator + Pre-trained piano model</h3>
 
-[elephant](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/05.wav)
+[elephant](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/05.mp3)
