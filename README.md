@@ -59,5 +59,5 @@ In order to train a model with our song lyrics database we used a [google colab 
 
 <h3>Part 2: Magenta MIDI-Generator + Pre-trained piano model</h3>
 
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/763971025&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
