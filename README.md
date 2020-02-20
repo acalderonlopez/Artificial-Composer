@@ -23,10 +23,24 @@ In order to train a model with our song lyrics database we used a [google colab 
 
 ![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Model.png)
 
-
 <h4>Outputs</h4>
 
-![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Outputs.png)
+[Output 1 - Temperature 05, Length 200](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/01_temp05_length200.txt)
+
+[Output 2 - Temperature 07, Length 200](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/02_temp07_length200.txt)
+
+[Output 3 - Temperature 09, Length 200](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/03_temp09_length200.txt)
+
+[Output 4 - Temperature 12, Length 200](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/04_temp12_length200.txt)
+
+[Output 5 - Temperature 15, Length 200](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/05_temp15_length200.txt)
+
+[Output 6 - Temperature 11, Length 200](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/06_temp11_length200.txt)
+
+[Output 7 - Temperature 10, Length 300](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/07_temp10_length300.txt)
+
+[Output 8 - Temperature 09, Length 300](https://github.com/asfrattini/Artificial-Composer/tree/master/outputs/08_temp09_length300.txt)
+
 
 <h4>Celebrities mockups made in Photoshop</h4>
 
