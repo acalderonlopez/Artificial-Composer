@@ -25,3 +25,19 @@ In order to train a model with our song lyrics database we used a [google colab 
 
 
 <h4>Outputs</h4>
+
+![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Outputs.png)
+
+<h4>Celebrities mockups made in Photoshop</h4>
+
+![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Beyonce.png)
+
+![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Alicia.png)
+
+![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Billy.png)
+
+![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Coldplay.png)
+
+![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Kenny.png)
+
+![input](https://github.com/asfrattini/Artificial-Composer/blob/master/images/Snoopp.png)
