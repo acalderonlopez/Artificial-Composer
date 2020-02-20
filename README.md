@@ -86,3 +86,10 @@ For this part of the project we used a [tutorial](https://www.twilio.com/blog/ge
 [MIDI File Output 9](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_09.mid)
 
 [MIDI File Output 10](https://github.com/asfrattini/Artificial-Composer/blob/master/Midi-Outputs/2020-02-11_122213_10.mid)
+
+
+<h4>Remix</h4>
+
+[MIDI File Output 5 - REMIX](https://soundcloud.com/user-277066246/05_remix)
+
+[MIDI File Output 7 - REMIX](https://soundcloud.com/user-277066246/07_remix)
